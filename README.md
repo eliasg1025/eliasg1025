@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Elias, I'm from Peru and I'm a Mid-level Web Developer
+My name is Elias, I'm from Peru and I'm a Mid-level Software Developer
 
 - 🔭 I’m currently working on [TuBoleta](https://www.tuboleta.app)
 
