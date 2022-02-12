@@ -24,5 +24,5 @@ My name is Elias, I'm from Peru and I'm a Mid-level Software Developer
 
 <a href="https://www.eliasguere.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.eliasguere.com-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/eliasguere" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@eliasguere-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="https://stackoverflow.com/users/15227072/elias-guere?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Elias%20Guere-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:eliasguere1025@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eliasguere1025@gmail.com-blue?style=flat&logo=gmail"></a>
