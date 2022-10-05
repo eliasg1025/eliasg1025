@@ -2,8 +2,6 @@
 
 My name is Elias, I'm from Peru and I'm a Mid-level Software Developer
 
-- 🔭 I’m currently working on [TuBoleta](https://www.tuboleta.app)
-
 - 🌱 I’m currently learning **React Native, Django, Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://www.eliasguere.com](https://www.eliasguere.com)
