@@ -2,9 +2,7 @@
 
 My name is Elias, I'm from Peru and I'm a Mid-level Software Developer
 
-- 🌱 I’m currently learning **React Native, Django, Machine learning**
-
-- 👨‍💻 All of my projects are available at [https://www.eliasguere.com](https://www.eliasguere.com)
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Vue, PHP, Laravel**
 
@@ -20,7 +18,6 @@ My name is Elias, I'm from Peru and I'm a Mid-level Software Developer
 
 ## Connect with me
 
-<a href="https://www.eliasguere.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.eliasguere.com-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/eliasguere" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@eliasguere-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/10987329/elias-guere?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Elias%20Guere-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:eliasguere1025@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eliasguere1025@gmail.com-blue?style=flat&logo=gmail"></a>
