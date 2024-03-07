@@ -1,8 +1,8 @@
-## Hello 👋
+## Hello 👋, I'm Elias
 
-My name is Elias, I'm from Peru and I'm a Mid-level Software Developer
+I'm a software developer from Perú passionate about music and animal lover.
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Javascript, PHP, Laravel**
 
